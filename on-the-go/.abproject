@@ -1,0 +1,37 @@
+{
+  "ProjectName": "on-the-go",
+  "ProjectGuid": "fb7bc193-9098-4c0f-9d9e-e38b3d9f9ea7",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.onthego",
+  "DisplayName": "on-the-go",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{908e433a-5e6a-457a-85e0-67997be0d8fc}",
+  "WP8ProductID": "{d1e95940-fa1c-48bb-a6f7-3b15a24088b2}",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
